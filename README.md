@@ -11,7 +11,7 @@
 - [ ] Testing
 
 #### Website Parameters
-- Performace (Fast loading time/ response time)
+- Performance (Fast loading time/ response time)
   - Lazy loading
   - Off the components
   - Use of CDN for images
