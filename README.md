@@ -1,5 +1,5 @@
 ### Web development
-- [ ] How website works ?
+- [ ] How websites works ?
 - [ ] Hosting a website : AWS, GoDaddy
 - [ ] Basic HTML tags
 - [ ] CSS3 elements
