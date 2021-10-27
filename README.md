@@ -1,4 +1,7 @@
 ### Web development
+
+TODO : Add image with flow diagram
+
 - [ ] How websites works ?
 - [ ] Hosting a website : AWS, GoDaddy
 - [ ] Basic HTML tags
@@ -22,3 +25,7 @@
   - User info
   - Payment   
 - Updated with latest frameworks
+
+
+#### Examples
+- https://github.com/GDG-Norway/devfest-2020/tree/4dfb03205efd9acd513bc17dfd1aa977a2b77914
