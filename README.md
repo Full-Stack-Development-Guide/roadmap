@@ -27,7 +27,8 @@ TODO : Add image with flow diagram
 - Updated with latest frameworks
 
 
-#### Examples
+#### References
 - https://github.com/GDG-Norway/devfest-2020/tree/4dfb03205efd9acd513bc17dfd1aa977a2b77914
 - https://www.udemy.com/user/sgslo/
 - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
+- https://github.com/sadanandpai/frontend-learning-kit
